@@ -1,18 +1,1 @@
-# Core-Java (ATM Application)
-
-Description: A simple console-based ATM system using Object-Oriented Programming in Java.
-
-Technologies Used: Java (Core), OOP, Console I/O
-
-Features:
-User Authentication: Login with a PIN or user ID.
-
-Check Balance
-
-Deposit Money
-
-Withdraw Money
-
-View Transaction History
-
-Exit
+A console-based ATM simulation program developed using Java. This application allows users to perform basic banking operations like checking balance, depositing cash, and withdrawing money through a simple and interactive menu-driven interface.
